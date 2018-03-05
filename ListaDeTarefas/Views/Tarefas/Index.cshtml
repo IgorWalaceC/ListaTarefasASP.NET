@@ -1,13 +1,13 @@
 ﻿@model IEnumerable<ListaDeTarefas.Models.Tarefa>
 
 @{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "Lista Tarefas";
 }
 
-<h2>Index</h2>
+<h2>Lista Tarefas</h2>
 
 <p>
-    @Html.ActionLink("Create New", "Create")
+    @Html.ActionLink("Criar Nova", "Create")
 </p>
 <table class="table">
     <tr>
@@ -41,9 +41,9 @@
             @Html.DisplayFor(modelItem => item.Ativa)
         </td>
         <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.TarefaId }) |
-            @Html.ActionLink("Details", "Details", new { id=item.TarefaId }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.TarefaId })
+            @Html.ActionLink("Editar", "Edit", new { id=item.TarefaId }) |
+            @Html.ActionLink("Detalhes", "Details", new { id=item.TarefaId }) |
+            @Html.ActionLink("Deletar", "Delete", new { id=item.TarefaId })
         </td>
     </tr>
 }

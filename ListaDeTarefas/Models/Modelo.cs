@@ -15,6 +15,7 @@ namespace ListaDeTarefas.Models
         public Usuario Usuario { get; set; }
         public int UsuarioID { get; set; }
         public ICollection<Tarefa> Tarefas { get; set; }
+        public DateTime? Prazo { get; set; }
     }
     public class Tarefa
     {

@@ -44,3 +44,7 @@ C:\Users\Igor\source\repos\ListaDeTarefas\ListaDeTarefas\bin\EntityFramework.dll
 C:\Users\Igor\source\repos\ListaDeTarefas\ListaDeTarefas\bin\EntityFramework.SqlServer.dll
 C:\Users\Igor\source\repos\ListaDeTarefas\ListaDeTarefas\bin\EntityFramework.xml
 C:\Users\Igor\source\repos\ListaDeTarefas\ListaDeTarefas\bin\EntityFramework.SqlServer.xml
+C:\Users\Igor\source\repos\ListaDeTarefas\ListaDeTarefas\bin\log4net.dll
+C:\Users\Igor\source\repos\ListaDeTarefas\ListaDeTarefas\bin\log4net.xml
+C:\Users\Igor\source\repos\ListaDeTarefas\ListaDeTarefas\obj\Debug\ListaDeTarefas.Migrations.InitialCreate.resources
+C:\Users\Igor\source\repos\ListaDeTarefas\ListaDeTarefas\obj\Debug\ListaDeTarefas.csproj.GenerateResource.Cache
